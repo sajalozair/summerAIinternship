@@ -31,6 +31,9 @@ overall for b we get equation;
 
 ![ls6](https://github.com/sajalozair/summerAIinternship/assets/138657622/7814cf1a-1237-4327-84b0-f251a20fd64c)
 
+link to python file:
+https://github.com/sajalozair/summerAIinternship/blob/master/simpleLR.py
+
 ![ls7](https://github.com/sajalozair/summerAIinternship/assets/138657622/8b9e2e20-a760-485d-a774-45e70278fd3d)
 
 ![ls8](https://github.com/sajalozair/summerAIinternship/assets/138657622/26b503b8-8eb6-416e-bf7b-882738d4ad33)
