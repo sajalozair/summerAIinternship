@@ -1,5 +1,5 @@
 # report on basics of numpy, pandas, matplotlib
-##Numpy
+## Numpy
 •	Numpy(numerical python) is an open source python library. It is the universal standard to work with numerical data in python.
 •	Numpy contains multidimensional arrays and help to construct matrices.
 •	Numpy provides ndarray--- n dimension array and provides various functions/methods that can be implemented on arrays.
