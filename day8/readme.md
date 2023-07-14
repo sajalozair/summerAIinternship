@@ -14,5 +14,5 @@ it is the measure of information state of a node. it decides which split conditi
 #### implementation in python
 I implemeted decision tree in python using numpy, pandas and scikit.
 ##### link for the code file is given below;
-
+https://github.com/sajalozair/summerAIinternship/blob/main/day8/Decision%20tree%20algorithm.ipynb
 
