@@ -11,4 +11,8 @@ those nodes which don't have child node. mostly contain homogenuous data(one cla
 it the measure of randomness and uncertainity in the dataset. it's value ranges from 0-1.0 means less entropy and 1 is the highest entropy value.
 ### information gain
 it is the measure of information state of a node. it decides which split condition acting on a node is more preferrable. it is measured using entropy of parent node and the child nodes. the split having highest information gain will be cansidered more preferrable. it values ranges from 0-1.
+#### implementation in python
+I implemeted decision tree in python using numpy, pandas and scikit.
+##### link for the code file is given below;
+
 
