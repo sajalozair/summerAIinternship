@@ -7,5 +7,5 @@ perceptron is a simple neural network consist of only one neuron.
 
 ![neural1](https://github.com/sajalozair/summerAIinternship/assets/138657622/61b1cd8c-4c81-442d-ace4-d4dc555b491d)
  following is the link to code;
- 
+ https://github.com/sajalozair/summerAIinternship/blob/main/day9/simpleneuralnetwork.ipynb
 
