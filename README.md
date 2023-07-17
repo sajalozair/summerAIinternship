@@ -7,3 +7,4 @@
 ### day6--- naive bayes classifier(use in classification)
 ### day7--- basics of neural networks
 ### day8--- decision tree implementation in python
+### day9--- Perceptron(simple neural network implementation)
