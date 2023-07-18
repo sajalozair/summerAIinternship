@@ -8,3 +8,4 @@
 ### day7--- basics of neural networks
 ### day8--- decision tree implementation in python
 ### day9--- Perceptron(simple neural network implementation)
+### day10-- basics of pytorch
