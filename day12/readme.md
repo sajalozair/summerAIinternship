@@ -16,3 +16,4 @@
 15:After training the model i tested it on test data i got 64.05 accuracy of model.<br />
 16: than i trained the model at 100 epoach and got accuracy of 84.42.<br />
 code file is attached below:
+https://github.com/sajalozair/summerAIinternship/blob/main/day12/fashionMINST.ipynb
