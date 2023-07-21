@@ -1,6 +1,6 @@
 ## implementation of neural network in pytorch and testing model
-1:Created a vanilla neural network (extension of linear regression) in PyTorch on Google Colab.
-2:Used different modules of PyTorch like torchvision, torch.utils.data, and other Python libraries such as sklearn, matplotlib, numpy, and pandas.
+1:Created a vanilla neural network (extension of linear regression) in PyTorch on Google Colab. <br />
+2:Used different modules of PyTorch like torchvision, torch.utils.data, and other Python libraries such as sklearn, matplotlib, numpy, and pandas. <br />
 3:Utilized the FashionMNIST dataset containing 10 classes like bags, shirts, sandals, sneakers, and others.
 4:Performed forward propagation to pass the input data through the network and obtain predictions.
 5:Applied the ReLU activation function in the hidden layer to introduce non-linearity.
