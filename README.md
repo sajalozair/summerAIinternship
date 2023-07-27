@@ -11,3 +11,5 @@
 ### day10-- basics of pytorch
 ### day11-- implemetation of vanilla neural network in pytorch
 ### day12-- visualization of results of model in pytorch.
+### day13-- MobileNet
+### day14-- ResNet50
